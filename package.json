@@ -9,7 +9,6 @@
         "lint": "ng lint",
         "e2e": "ng e2e"
     },
-    "private": true,
     "dependencies": {
         "@angular/animations": "~8.2.14",
         "@angular/common": "~8.2.14",
@@ -46,5 +45,20 @@
         "tsickle": "^0.37.0",
         "tslint": "~5.15.0",
         "typescript": "~3.5.3"
-    }
+    },
+    "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.25.",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/pradeepbandaru/DemoProjects.git"
+    },
+    "keywords": [
+        "alert"
+    ],
+    "author": "Pradeep Kumar",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/pradeepbandaru/DemoProjects/issues"
+    },
+    "homepage": "https://github.com/pradeepbandaru/DemoProjects#readme"
 }
